@@ -1,59 +1,98 @@
-# Hi, I'm Navneet Jaiswal 👋  
+<h1 align="center">Hi, I'm Navneet Jaiswal 👋</h1>
 
-🎓 CSE Undergraduate at **IIIT Bhagalpur (2024–2028)**  
-💻 Full-Stack Developer | MERN | Backend & System Design  
-🧠 Exploring **GenAI, LLMs, and AI-assisted developer tools**  
+<p align="center">
+🎓 CSE Undergraduate @ <b>IIIT Bhagalpur (2024–2028)</b><br/>
+💻 Full-Stack Developer | Backend & System Design<br/>
+🧠 Exploring GenAI, LLMs & AI-assisted developer tools<br/>
 ⚔️ Competitive Programming (CodeChef & Codeforces)
+</p>
 
 ---
 
 ## 🚀 About Me
-I enjoy building **real-world, learning-focused software** that balances  
-**clean architecture, performance, and ethical design**.
+I enjoy building **learning-focused, real-world software** with an emphasis on  
+**clean architecture, scalability, and ethical design choices**.
 
-I’m particularly interested in:
-- Full-stack web development (React, Node.js, MongoDB)
+My interests include:
+- Full-stack web development
 - Backend systems & APIs
 - AI-powered developer tools
 - Competitive programming & problem-solving
 
+I prefer **understanding systems deeply** rather than just making things work.
+
 ---
 
 ## 🛠 Tech Stack
-**Frontend:** React, JavaScript, HTML, CSS, Tailwind  
-**Backend:** Node.js, Express, MongoDB  
-**AI / GenAI:** OpenAI APIs, Prompt Engineering, RAG basics  
-**Tools:** Git, GitHub, Vite, Docker (basics)  
-**CP:** C++, CodeChef, Codeforces  
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### AI / GenAI
+<p>
+<img src="https://skillicons.dev/icons?i=openai" />
+</p>
+
+- Prompt Engineering  
+- RAG (basics)
+
+### Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vite,docker" />
+</p>
+
+### Competitive Programming
+<p>
+<img src="https://skillicons.dev/icons?i=cpp" />
+</p>
+
+- CodeChef  
+- Codeforces  
 
 ---
 
 ## 📌 Featured Projects
+
 ### 🔹 HintyAI – Practice-Only CP Learning Assistant
-- Chrome extension that provides **progressive AI hints** for Codeforces practice
-- Strictly blocks live & virtual contests
-- No solutions, no code generation — learning-first design  
-👉 Repo: `hintyai-practice-extension`
+- Chrome extension providing **progressive, intuition-based AI hints**
+- Strictly blocks **live & virtual contests**
+- ❌ No solutions  
+- ❌ No code generation  
+- ✅ Learning-first & ethics-aware design  
+
+🔗 Repository: **hintyai-cp**
+
+---
 
 ### 🔹 Full-Stack MERN Projects
-- Authentication systems with JWT & bcrypt
+- Authentication systems using **JWT & bcrypt**
 - Task management & admin dashboards
 - E-commerce / shop-style applications
+- Focus on backend logic, APIs & state management
 
 ---
 
 ## 📊 Competitive Programming
-- **CodeChef:** Weekly contests participant  
+- **CodeChef:** Weekly contest participant  
 - **Codeforces:** Regular Div.3 practice  
-- Focus on problem-solving & algorithmic thinking
+- Focused on building algorithmic thinking & consistency
 
 ---
 
 ## 📫 Connect With Me
-- Email: **navvpc50@gmail.com**
-- GitHub: https://github.com/itznavneet
-- LinkedIn: *(add your LinkedIn link here)*
+- 📧 Email: **navvpc50@gmail.com**
+- 💻 GitHub: https://github.com/itznavneet
+- 🔗 LinkedIn: www.linkedin.com/in/navneet-jaiswal-8aa05b322
 
 ---
 
-⭐ *I believe in learning by building and explaining systems deeply.*
+<p align="center">
+⭐ <i>I believe in learning by building, breaking, and explaining systems deeply.</i>
+</p>
