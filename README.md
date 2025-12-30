@@ -60,22 +60,13 @@ I prefer **understanding systems deeply** rather than just making things work.
 
 ## 📌 Featured Projects
 
-### 🔹 HintyAI – Practice-Only CP Learning Assistant
-- Chrome extension providing **progressive, intuition-based AI hints**
-- Strictly blocks **live & virtual contests**
-- ❌ No solutions  
-- ❌ No code generation  
-- ✅ Learning-first & ethics-aware design  
+### 🔹 NoteNest – Smart Note Management App
+- Full-stack note management application
+- Secure authentication & user-specific notes
+- Clean UI with focus on productivity
+- Built with **React, Node.js, Express, MongoDB**
 
-🔗 Repository: **hintyai-cp**
-
----
-
-### 🔹 Full-Stack MERN Projects
-- Authentication systems using **JWT & bcrypt**
-- Task management & admin dashboards
-- E-commerce / shop-style applications
-- Focus on backend logic, APIs & state management
+🔗 Repository: **notenest**
 
 ---
 
